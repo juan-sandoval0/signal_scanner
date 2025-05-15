@@ -2,8 +2,6 @@
 
 Generates an investor-style startup brief from any company website using GPT-4o, BeautifulSoup, and web data.
 
-> Exploring AI application design, information extraction, and insights from public data.
-
 ---
 
 ## What It Does
