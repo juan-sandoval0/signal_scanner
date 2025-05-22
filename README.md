@@ -30,9 +30,9 @@ I wanted to simulate how an analyst or early-stage investor might summarize the 
 
 ## How to Run
 
-### 1. Clone the repo
-### 2. Set up your environment
-### Add API Keys for OpenAI and SERPAI
+1. Clone the repo
+2. Set up your environment
+3. Add API Keys for OpenAI and SERPAI
 
 ---
 
