@@ -1,12 +1,12 @@
 # Startup Signal Scanner
 
-Generates an investor-style startup brief from any company website using GPT-4o, BeautifulSoup, and web data.
+Generates a brief on any startup from any company website using GPT-4o, BeautifulSoup, and web data!
 
 ---
 
 ## What It Does
 
-Lets you input the URL of any startup’s website and returns a clean, investor-friendly brief by:
+Lets you input the URL of any startup’s website and returns a brief by:
 
 - Scraping the landing page and important subpages (like About, Team, Careers)
 - Classifying relevant links using OpenAI API
@@ -32,13 +32,11 @@ I wanted to simulate how an analyst or early-stage investor might summarize the 
 
 ### 1. Clone the repo
 ### 2. Set up your environment
-### Add API Keys
-> OPENAI_API_KEY=your-openai-key
-> SERPAPI_API_KEY=your-serpapi-key
+### Add API Keys for OpenAI and SERPAI
 
 ---
 
 ## My future ideas
 - Integrate GitHub, Product Hunt, or Google Trends for better analysis
-- Add Streamlit front-end for interactive reports
+- Add Streamlit front-end
 - Auto-export reports to PDF
